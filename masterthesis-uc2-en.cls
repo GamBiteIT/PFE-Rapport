@@ -466,9 +466,12 @@
 \makeatother
 \setcounter{tocdepth}{2} % level 2 in toc
 
+
 \makeatletter
 \g@addto@macro\tableofcontents{\clearpage}
 \makeatother
+
+
 
 \makeatletter
 \g@addto@macro\listoffigures{\clearpage}
