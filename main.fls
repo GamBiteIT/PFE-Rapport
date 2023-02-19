@@ -1812,13 +1812,6 @@ INPUT ./front/abstract.tex
 INPUT front/abstract.tex
 INPUT ./front/abstract.tex
 INPUT front/abstract.tex
-INPUT ./front/abstract_fr.tex
-INPUT ./front/abstract_fr.tex
-INPUT ./front/abstract_fr.tex
-INPUT front/abstract_fr.tex
-INPUT ./front/abstract_fr.tex
-INPUT ./front/abstract_fr.tex
-INPUT front/abstract_fr.tex
 INPUT ./front/abstract_en.tex
 INPUT ./front/abstract_en.tex
 INPUT ./front/abstract_en.tex
@@ -1826,6 +1819,13 @@ INPUT front/abstract_en.tex
 INPUT ./front/abstract_en.tex
 INPUT ./front/abstract_en.tex
 INPUT front/abstract_en.tex
+INPUT ./front/abstract_fr.tex
+INPUT ./front/abstract_fr.tex
+INPUT ./front/abstract_fr.tex
+INPUT front/abstract_fr.tex
+INPUT ./front/abstract_fr.tex
+INPUT ./front/abstract_fr.tex
+INPUT front/abstract_fr.tex
 INPUT ./front/abstract_ar.tex
 INPUT ./front/abstract_ar.tex
 INPUT ./front/abstract_ar.tex
