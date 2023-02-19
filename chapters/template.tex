@@ -56,7 +56,7 @@ You can define several types of floating elements: Figures, tables, and algorith
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=2.5cm]{figures/example}
+	\includegraphics[width=2.5cm]{front/logo-uc2}
 	\caption{An example of figures}
 	\label{fig:example} % label must always be after caption
 \end{figure}
@@ -91,8 +91,11 @@ In addition to definitions, you can use theorems, proofs, remarks, notations, le
 
 You can also introduce source codes, like the following example which is written in Java language (The syntax highlighting can be customized in the file \texttt{"/macros.tex"}):
 
-\begin{sourcecode}{/src/A.java}
+\begin{sourcecode}{A.java}
 	\lstinputlisting[language=Java]{listings/A.java}
+\end{sourcecode}
+\begin{sourcecode}{A.py}
+	\lstinputlisting[language=Python]{listings/A.py}
 \end{sourcecode}
 
 \section{Bibliographic Citations}

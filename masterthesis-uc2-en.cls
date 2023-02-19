@@ -431,7 +431,7 @@
 		\vskip .35cm
 		\leavevmode
 		\begin{center}
-			\textbf{R\'{e}sum\'{e}}
+		
 		\end{center}
 		\vspace*{-.6cm}
 		\begin{flushleft}
