@@ -22,6 +22,5 @@
 \babel@toc {french}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {3.5}Source Codes}{8}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Bibliographic Citations}{10}{section.3.6}%
-\contentsline {chapter}{Bibliography}{11}{chapter*.15}%
-\contentsline {chapter}{Acronyms}{12}{chapter*.16}%
+\contentsline {chapter}{References}{10}{chapter*.15}%
+\contentsline {chapter}{Acronyms}{11}{chapter*.16}%

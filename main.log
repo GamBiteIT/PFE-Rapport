@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.9)  20 FEB 2023 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.9)  20 FEB 2023 13:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1235,7 +1235,7 @@ LaTeX Info: Redefining \cite on input line 694.
 LaTeX Warning: Unused global option(s):
     [natbib].
 
-(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./front/acronyms.aux))
+(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./chapters/reference.aux) (./front/acronyms.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1358,12 +1358,12 @@ LaTeX Info: Redefining \nameref on input line 16.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 20.
-<front/logo-uc2.jpg, id=95, 391.4625pt x 391.4625pt>
+<front/logo-uc2.jpg, id=91, 391.4625pt x 391.4625pt>
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
 Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<front/logo-ntic.png, id=96, 282.21436pt x 283.90065pt>
+<front/logo-ntic.png, id=92, 282.21436pt x 283.90065pt>
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
 Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
@@ -1401,7 +1401,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<front/bismi_allah8.png, id=108, 979.66pt x 1924.18875pt>
+<front/bismi_allah8.png, id=104, 979.66pt x 1924.18875pt>
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
 Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
@@ -1565,7 +1565,11 @@ LaTeX Font Info:    Font shape `T1/npxtt/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (./listings/A.py) [8] [9]) [10] (./main.bbl) [11
+) (./listings/A.py) [8]) [9]
+\openout2 = `chapters/reference.aux'.
+
+ (./chapters/reference.tex) [10
+
 
 
 
@@ -1576,25 +1580,27 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 
  (./front/acronyms.tex
 
-LaTeX Warning: Hyper reference `acro:NTIC' on page 12 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:NTIC' on page 11 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:NTIC' on page 12 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:NTIC' on page 11 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page 12 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page 11 undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page 12 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page 11 undefined on input line 9.
 
-) [12
+) [11
+
+
 
 
 ]
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
- (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./front/acronyms.aux))
+ (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./chapters/reference.aux) (./front/acronyms.aux))
 
  *File List*
 masterthesis-uc2-en.cls    2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1785,7 +1791,7 @@ listings/A.java
    t1qhv.fd    2009/09/25 v1.2 font definition file for T1/qhv
 lstlang1.sty    2020/03/24 1.8d listings language file
 listings/A.py
-    main.bbl
+chapters/reference.tex
 front/acronyms.tex
  ***********
 
@@ -1793,25 +1799,25 @@ front/acronyms.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2BB527E8E6FEE5D5D82B53C8E31C0160;2994.
+(rerunfilecheck)             Checksum: 27E845F7A9C94B971F41E31BBF339C25;2811.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38676 strings out of 478268
- 698872 string characters out of 5846348
- 1405122 words of memory out of 5000000
- 55998 multiletter control sequences out of 15000+600000
+ 38692 strings out of 478268
+ 699764 string characters out of 5846348
+ 1405402 words of memory out of 5000000
+ 56013 multiletter control sequences out of 15000+600000
  538374 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,11n,120p,4560b,4128s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (20 pages, 701846 bytes).
+Output written on main.pdf (19 pages, 698789 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 364 compressed objects within 4 object streams
- 124 named destinations out of 1000 (max. 500000)
- 204 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 399 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
