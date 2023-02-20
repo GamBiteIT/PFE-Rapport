@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.9)  20 FEB 2023 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  20 FEB 2023 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/abderahmanemahdigharzouli/Downloads/PFE/main.tex
-(/Users/abderahmanemahdigharzouli/Downloads/PFE/main.tex
+**/Users/younessadi/PFE-Rapport/main.tex
+(/Users/younessadi/PFE-Rapport/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./masterthesis-uc2-en.cls
 Document Class: masterthesis-uc2-en 2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1454,19 +1454,19 @@ LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
 ] [7]
 \openout2 = `chapters/introduction.aux'.
 
- (./chapters/introduction.tex [1
+ (./chapters/introduction.tex) [1
 
 
 
 
 
-]) [2]
+]
 \openout2 = `chapters/state_of_the_art.aux'.
 
  (./chapters/state_of_the_art.tex
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 5.
-) [3
+) [2
 
 
 
@@ -1474,7 +1474,7 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 ]
 \openout2 = `chapters/contributions.aux'.
 
- (./chapters/contributions.tex) [4
+ (./chapters/contributions.tex) [3
 
 
 
@@ -1482,7 +1482,7 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 ]
 \openout2 = `chapters/conclusion.aux'.
 
- (./chapters/conclusion.tex) [5
+ (./chapters/conclusion.tex) [4
 
 
 
@@ -1504,7 +1504,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
 
-[6
+[5
 
 
 
@@ -1523,7 +1523,7 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7
+[6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1565,7 +1565,7 @@ LaTeX Font Info:    Font shape `T1/npxtt/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (./listings/A.py) [8] [9]) [10] (./main.bbl) [11
+) (./listings/A.py) [7] [8]) [9] (./main.bbl) [10
 
 
 
@@ -1576,18 +1576,18 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 
  (./front/acronyms.tex
 
-LaTeX Warning: Hyper reference `acro:NTIC' on page 12 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:NTIC' on page 11 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:NTIC' on page 12 undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:NTIC' on page 11 undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page 12 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page 11 undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page 12 undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page 11 undefined on input line 9.
 
-) [12
+) [11
 
 
 ]
@@ -1800,18 +1800,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38676 strings out of 478268
- 698872 string characters out of 5846348
- 1405122 words of memory out of 5000000
+ 38675 strings out of 478268
+ 698814 string characters out of 5846347
+ 1405098 words of memory out of 5000000
  55998 multiletter control sequences out of 15000+600000
  538374 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4560b,4128s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,11n,120p,4543b,4128s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (20 pages, 701846 bytes).
+Output written on main.pdf (19 pages, 702751 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 364 compressed objects within 4 object streams
- 124 named destinations out of 1000 (max. 500000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
+ 123 named destinations out of 1000 (max. 500000)
  204 words of extra memory for PDF output out of 10000 (max. 10000000)
 

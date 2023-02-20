@@ -5,10 +5,10 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Bardeen et~al.(1973)Bardeen, Carter, and Hawking]{bar73}
-James~M Bardeen, Brandon Carter, and Stephen~W Hawking.
-\newblock The four laws of black hole mechanics.
-\newblock \emph{Communications in mathematical physics}, 31\penalty0
-  (2):\penalty0 161--170, 1973.
+\bibitem[d'ALGER(01 janvier 2021)]{bar73}
+Bureau Business~France d'ALGER.
+\newblock Point sur l'agriculture en 2020 algérie.
+\newblock \emph{République Française Liberté Égalité Fraternité},
+  \penalty0 (1):\penalty0 page 1, 01 janvier 2021.
 
 \end{thebibliography}
