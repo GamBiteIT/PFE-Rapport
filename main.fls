@@ -1852,7 +1852,6 @@ INPUT ./chapters/introduction.tex
 INPUT chapters/introduction.tex
 INPUT ./chapters/introduction.tex
 INPUT chapters/introduction.tex
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 INPUT ./chapters/state_of_the_art.tex
 INPUT ./chapters/state_of_the_art.tex
 INPUT ./chapters/state_of_the_art.tex
@@ -1863,6 +1862,7 @@ INPUT ./chapters/state_of_the_art.tex
 INPUT chapters/state_of_the_art.tex
 INPUT ./chapters/state_of_the_art.tex
 INPUT chapters/state_of_the_art.tex
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
 INPUT ./chapters/contributions.tex
 INPUT ./chapters/contributions.tex
 INPUT ./chapters/contributions.tex
