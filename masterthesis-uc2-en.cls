@@ -458,8 +458,8 @@
 \makeatletter
 %\renewcommand{\contentsname}{Table of Contents}
 \renewcommand\tableofcontents{
-	\chapter*{Table of Contents}
-	\addcontentsline{toc}{chapter}{Table of Contents}
+	\chapter*{Table des matières}
+	
 %	\chapter*{\contentsname}
 	\@starttoc{toc}
 }
