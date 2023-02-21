@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  21 FEB 2023 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  21 FEB 2023 15:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1809,7 +1809,7 @@ chapters/reference.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0791B89EBE589AF6A5F771E45EF91470;2950.
+(rerunfilecheck)             Checksum: A4BB99DA2CDF847BE3268D8EC2A2254F;2953.
  )
 (\end occurred inside a group at level 1)
 
@@ -1818,7 +1818,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  38694 strings out of 478268
  699741 string characters out of 5846347
- 1405471 words of memory out of 5000000
+ 1405472 words of memory out of 5000000
  56012 multiletter control sequences out of 15000+600000
  538374 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
