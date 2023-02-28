@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  28 FEB 2023 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  28 FEB 2023 12:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1358,20 +1358,12 @@ LaTeX Info: Redefining \nameref on input line 16.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 20.
-<<<<<<< HEAD
 <front/logo-uc2.jpg, id=59, 391.4625pt x 391.4625pt>
-=======
-<front/logo-uc2.jpg, id=51, 391.4625pt x 391.4625pt>
->>>>>>> cd6346c1d948e8dbbfa3bdc1ea3bcb41d1d12262
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
 Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<<<<<<< HEAD
 <front/logo-ntic.png, id=60, 282.21436pt x 283.90065pt>
-=======
-<front/logo-ntic.png, id=52, 282.21436pt x 283.90065pt>
->>>>>>> cd6346c1d948e8dbbfa3bdc1ea3bcb41d1d12262
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
 Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
@@ -1409,11 +1401,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<<<<<<< HEAD
 <front/bismi_allah8.png, id=72, 979.66pt x 1924.18875pt>
-=======
-<front/bismi_allah8.png, id=64, 979.66pt x 1924.18875pt>
->>>>>>> cd6346c1d948e8dbbfa3bdc1ea3bcb41d1d12262
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
 Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
@@ -1752,46 +1740,25 @@ chapters/reference.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 4FE21FDAAE84013370AEC5151DCD6726;1750.
-=======
-(rerunfilecheck)             Checksum: 298E2039D9B7706263E26B0B35658AB9;1593.
->>>>>>> cd6346c1d948e8dbbfa3bdc1ea3bcb41d1d12262
+(rerunfilecheck)             Checksum: 2B25DEA83222239EF973D564C1F9E2EB;1750.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 37823 strings out of 478268
- 688827 string characters out of 5846347
+ 37824 strings out of 478268
+ 688838 string characters out of 5846347
  1184020 words of memory out of 5000000
  55260 multiletter control sequences out of 15000+600000
  520860 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,11n,120p,4558b,2604s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (14 pages, 607800 bytes).
+Output written on main.pdf (14 pages, 607832 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 37818 strings out of 478268
- 688723 string characters out of 5846347
- 1184019 words of memory out of 5000000
- 55258 multiletter control sequences out of 15000+600000
- 520860 words of font info for 66 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4543b,2600s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (14 pages, 606816 bytes).
-PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> cd6346c1d948e8dbbfa3bdc1ea3bcb41d1d12262
 

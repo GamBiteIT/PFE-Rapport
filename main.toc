@@ -11,5 +11,5 @@
 \contentsline {chapter}{\chapternumberline {2}Contributions}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Theoretical Proposal}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Implementation et Experiments}{4}{section.2.2}%
-\contentsline {chapter}{General Conclusion}{5}{chapter*.14}%
-\contentsline {chapter}{References}{6}{chapter*.17}%
+\contentsline {chapter}{General Conclusion}{5}{chapter*.15}%
+\contentsline {chapter}{References}{6}{chapter*.18}%
