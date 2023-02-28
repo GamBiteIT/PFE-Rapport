@@ -10,14 +10,4 @@
 \contentsline {section}{\numberline {2.1}Theoretical Proposal}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Implementation et Experiments}{4}{section.2.2}%
 \contentsline {chapter}{General Conclusion}{5}{chapter*.13}%
-\contentsline {chapter}{\chapternumberline {3}Template Items}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Title - Level 2}{6}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Title - Level 3}{6}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Title - Level 4}{6}{subsubsection.3.1.1.1}%
-\contentsline {section}{\numberline {3.2}Lists of Items}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Figures, Tables and Algorithms}{7}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Cross-Referencing}{7}{section.3.4}%
-\babel@toc {french}{}\relax 
-\babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {3.5}Source Codes}{8}{section.3.5}%
-\contentsline {chapter}{References}{10}{chapter*.19}%
+\contentsline {chapter}{References}{6}{chapter*.16}%
