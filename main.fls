@@ -1,8 +1,8 @@
-PWD /Users/younessadi/PFE-Rapport
+PWD /Users/abderahmanemahdigharzouli/PFE-Rapport
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/younessadi/PFE-Rapport/main.tex
+INPUT /Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
 OUTPUT main.log
 INPUT ./masterthesis-uc2-en.cls
 INPUT ./masterthesis-uc2-en.cls
