@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  28 FEB 2023 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  28 FEB 2023 12:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/younessadi/PFE-Rapport/main.tex
-(/Users/younessadi/PFE-Rapport/main.tex
+**/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
+(/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./masterthesis-uc2-en.cls
 Document Class: masterthesis-uc2-en 2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1176,4 +1176,589 @@ Package: afonts 1995/11/16  3.04 define Naskh font
 Package: afonts2 1998/10/19  3.10 define Naskh fonts for LaTeX2e
 )) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/ascan.sty
 Package: ascan 2003/08/22  3.11 standard ZDMG input encoding 
- (ArabTeX) scanner for code `arabtex' installed. (ArabTeX) input encoding set to ArabTeX standard conventions.) (/usr/local/texli
+ (ArabTeX) scanner for code `arabtex' installed. (ArabTeX) input encoding set to ArabTeX standard conventions.) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/aparse.sty
+Package: aparse 2003/05/26  3.11 get syllables 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/awrite.sty
+Package: awrite 2003/06/05  3.11 build output word 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/xarbsymb.sty
+Package: xarbsymb 1998/07/15  3.07 symbolic output encoding 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/arabskel.sty
+Package: arabskel 2000/06/04  3.10 character skeleton definitions 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/xarbskel.sty
+Package: xarbskel 1999/07/17  3.09 character skeleton definitions 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/aboxes.sty
+Package: aboxes 2003/05/28  3.11 build output boxes
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/arabtoks.sty
+Package: arabtoks 1999/07/17  3.09 ArabTeX CS token definitions 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/arabchrs.sty
+Package: arabchrs 1998/07/11  3.07 letter token definitions 
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/aligs.sty
+Package: aligs 2003/05/26  3.11 compute ligatures
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/aoutput.sty
+Package: aoutput 2000/06/04  3.10 build output lines
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/abidir.sty
+Package: abidir 2003/08/22  3.11 bidirectional linebreaking
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/atrans.sty
+Package: atrans 2003/06/14  3.11 generate the transliteration 
+ (ArabTeX) ZDMG transliteration.) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alatex.sty
+Package: alatex 2003/05/04  3.11 ArabTeX extensions for LaTeX 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/afoot.sty
+Package: afoot 2003/05/12  3.11 ArabTeX footnotes
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/abjad.sty
+Package: abjad 2003/04/26  3.11 abjad numerals 
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/apatch.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alists.sty
+Package: alists 2003/04/26  3.11 inverted list macros
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/asect.sty
+Package: asect 2003/04/26  3.11 section macros for Arabic
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/atabg.sty
+Package: atabg 1997/01/21  3.05 LaTeX tabbing macros for Arabic
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006)
+Package: apatch 2006/07/02  3.11s last minute patches 
+)
+Arabic processor `ArabTeX' [20060702 patch level 3.11s (02.07.2006)]
+(ArabTeX) ... now be patient ... ) (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/utf8.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/utfcode.sty
+Package: utfcode 2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
+\u@lb=\count447
+\u@lq=\count448
+)
+Package: utf8 2000/06/13  3.10 UTF-8 input encoding 
+ (ArabTeX) scanner for code UTF-8 installed.) (ArabTeX) input encoding set to UTF-8 conventions
+\ChpNumBox=\box143
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip273
+\bibsep=\skip274
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count449
+))
+
+LaTeX Warning: Unused global option(s):
+    [natbib].
+
+(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/reference.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 16.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabi/laecmr.fd
+File: laecmr.fd 2006/01/01 v0.1 LaTeX Arabic default font description (test version: may change)
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \degres on input line 16.
+
+
+Package french.ldf Warning: Please load the "natbib" package
+(french.ldf)                BEFORE babel/french; reported on input line 16.
+
+LaTeX Info: Redefining \up on input line 16.
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count450
+\scratchdimen=\dimen360
+\scratchbox=\box144
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks76
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen361
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks77
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(76.82234pt, 702.78308pt, 65.44142pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-29.82144pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=42.0pt
+* \marginparsep=7.0pt
+* \columnsep=28.45274pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count456
+\c@mv@boldtabular=\count457
+Package hyperref Info: Link coloring ON on input line 16.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count458
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+(./main.out) (./main.out)
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
+\c@lstlisting=\count459
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/apatch.sty
+\a@lines=\count460
+\a@Lwidth=\dimen362
+\a@displaywidth=\dimen363
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 20.
+<front/logo-uc2.jpg, id=59, 391.4625pt x 391.4625pt>
+File: front/logo-uc2.jpg Graphic file (type jpg)
+<use front/logo-uc2.jpg>
+Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
+(pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
+<front/logo-ntic.png, id=60, 282.21436pt x 283.90065pt>
+File: front/logo-ntic.png Graphic file (type png)
+<use front/logo-ntic.png>
+Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
+(pdftex.def)             Requested size: 51.21504pt x 51.52011pt.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/sc' will be
+(Font)              scaled to size 17.28pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/sc' will be
+(Font)              scaled to size 17.28pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 20.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./front/logo-uc2.jpg> <./front/logo-ntic.png
+
+pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+<front/bismi_allah8.png, id=72, 979.66pt x 1924.18875pt>
+File: front/bismi_allah8.png Graphic file (type png)
+<use front/bismi_allah8.png>
+Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
+(pdftex.def)             Requested size: 91.04872pt x 178.80676pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 	\maketitlepage
+                     [1
+
+ <./front/bismi_allah8.png>]
+\openout2 = `front/acknowledgments.aux'.
+
+ (./front/acknowledgments.tex
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `T1/zplTLF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 1.
+) [2
+
+
+
+]
+\openout2 = `front/abstract.aux'.
+
+ (./front/abstract.tex (./front/abstract_en.tex) [3
+
+
+
+
+] (./front/abstract_fr.tex) [4
+
+] (./front/abstract_ar.tex
+LaTeX Font Info:    Trying to load font information for U+xnsh on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/Uxnsh.fd
+File: uxnsh.fd  1999/10/19 v3.10 ArabTeX Naskh extd. font definitions
+)
+LaTeX Font Info:    Font shape `U/xnsh/m/n' will be
+(Font)              scaled to size 17.28003pt on input line 1.
+LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
+(Font)              scaled to size 17.28003pt on input line 1.
+)) [5
+
+] (./main.toc) [6
+
+
+
+
+]
+\openout2 = `front/acronyms.aux'.
+
+ (./front/acronyms.tex
+
+LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 8.
+
+
+LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 8.
+
+
+LaTeX Warning: Hyper reference `acro:UML' on page vii undefined on input line 9.
+
+
+LaTeX Warning: Hyper reference `acro:UML' on page vii undefined on input line 9.
+
+
+LaTeX Warning: Hyper reference `acro:SI' on page vii undefined on input line 10.
+
+
+LaTeX Warning: Hyper reference `acro:SI' on page vii undefined on input line 10.
+
+) [7
+
+
+
+]
+\openout2 = `chapters/introduction.aux'.
+
+ (./chapters/introduction.tex
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+ []
+
+[1
+
+
+
+
+
+
+]) [2]
+\openout2 = `chapters/state_of_the_art.aux'.
+
+ (./chapters/state_of_the_art.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
+) [3
+
+
+
+
+]
+\openout2 = `chapters/contributions.aux'.
+
+ (./chapters/contributions.tex) [4
+
+
+
+
+]
+\openout2 = `chapters/conclusion.aux'.
+
+ (./chapters/conclusion.tex) [5
+
+
+
+
+]
+\openout2 = `chapters/reference.aux'.
+
+ (./chapters/reference.tex
+LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/t1npxtt.fd
+File: t1npxtt.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+)
+Overfull \hbox (34.09651pt too wide) in paragraph at lines 4--43
+\T1/zplTLF/m/n/12 République Française Lib-erté Égal-ité Fra-ter-nité , 10 Jan-vier 2021 ([][]$\T1/npxtt/m/n/12 https : / / www . businessfrance .
+ []
+
+[6
+
+
+
+
+
+
+]
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/reference.aux))
+
+ *File List*
+masterthesis-uc2-en.cls    2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
+  memoir.cls    2022/02/20 v3.7q configurable book, report, article document class
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+   iftex.sty    2022/02/03 v1.0f TeX engine tests
+   mem12.clo    2010/10/19 v0.4b memoir class 12pt size option
+   array.sty    2021/10/04 v2.5f Tabular extension package (FMi)
+ dcolumn.sty    2014/10/28 v1.06 decimal alignment package (DPC)
+delarray.sty    2014/10/28 v1.01 array delimiter package (DPC)
+tabularx.sty    2020/01/15 v2.11c `tabularx' package (DPC)
+textcase.sty    2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+inputenc.sty    2021/02/14 v1.3d Input encoding file
+ fontenc.sty
+  laeenc.def    2006/01/01 v0.1 Local Arabic font encoding (test version: may change)
+  laeenc.dfu    2006/01/01 v1.0 UTF-8 support for Arabic and Farsi for use with inputenc
+   babel.sty    2022/02/26 3.73 The Babel package
+  french.ldf    2021/07/20 v3.5m French support from the babel system
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+scalefnt.sty    
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2020/10/05 v1.2a Graphics/color driver for pdftex
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ amsmath.sty    2021/10/15 v2.17l AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2021/08/26 v2.02 operator names
+   color.sty    1999/02/16
+   color.cfg    2016/01/02 v1.6 sample color configuration
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+colortbl.sty    2020/01/04 v1.0e Color table columns (DPC)
+ xifthen.sty    2015/11/05 v1.4.0 Extended ifthen features
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+  ifthen.sty    2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+ acronym.sty    2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+  suffix.sty    2006/07/15 1.5a Variant command support
+ xstring.sty    2021/07/21 v1.84 String manipulations (CT)
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+newpxtext.sty    2022/01/30 v1.504(Michael Sharpe) latex and unicode latex support for TeXGyrePagellaX
+ fontenc.sty
+ ifxetex.sty    2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+ifluatex.sty    2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ xkeyval.sty    2020/11/20 v2.8 package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+textcomp.sty    2020/02/02 v2.0n Standard LaTeX package
+fontaxes.sty    2020/07/21 v1.0e Font selection axes
+hyperref.sty    2022-02-21 v7.00n Hypertext links for LaTeX
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+  pd1enc.def    2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+   puenc.def    2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+memhfixc.sty    2021/06/16 v1.19 nameref/hyperref package fixes for memoir class
+ hpdftex.def    2022-02-21 v7.00n Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+enumitem.sty    2019/06/20 v3.9 Customized lists
+multirow.sty    2021/03/15 v2.8 Span multiple rows of a table
+multicol.sty    2021/10/28 v1.9b multicolumn formatting (FMi)
+algorithm.sty    2009/08/24 v0.1 Document Style `algorithm' - floating environment
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+algorithmic.sty    2009/08/24 v0.1 Document Style `algorithmic'
+  xpatch.sty    2020/03/25 v0.3a Extending etoolbox patching commands
+   expl3.sty    2022-02-24 L3 programming layer (loader) 
+l3backend-pdftex.def    2022-02-07 L3 backend support: PDF output (pdfTeX)
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+listings.sty    2020/03/24 1.8d (Carsten Heinz)
+ lstmisc.sty    2020/03/24 1.8d (Carsten Heinz)
+listings.cfg    2020/03/24 1.8d listings configuration
+tcolorbox.sty    2022/01/07 version 5.0.2 text color boxes
+     pgf.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgfrcs.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfrcs.code.tex
+ pgfcore.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgfsys.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+pgfsysprotocol.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfcomp-version-1-18.sty    2021/05/15 v3.1.9a (3.1.9a)
+ environ.sty    2014/05/04 v0.3 A new way to define environments
+trimspaces.sty    2009/09/17 v1.1 Trim spaces around a token list
+    tikz.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgffor.sty    2021/05/15 v3.1.9a (3.1.9a)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+  lipsum.sty    2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+l3keys2e.sty    2022-01-12 LaTeX2e option processing using LaTeX3 keys
+  lipsum.ltd
+fancyhdr.sty    2021/01/28 v4.0.1 Extensive control of page headers and footers
+scrextend.sty    2021/11/13 v3.35 KOMA-Script package (extend other classes with features of KOMA-Script classes)
+scrkbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ scrbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+scrlfile.sty    2021/11/13 v3.35 KOMA-Script package (file load hooks)
+scrlfile-hook.sty    2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+ scrlogo.sty    2021/11/13 v3.35 KOMA-Script package (logo)
+ arabtex.sty    2003/08/22  3.11 ArabTeX main module
+ arabaux.sty    2003/05/21  3.11 auxiliary macros for ArabTeX
+t1zpltlf.fd    2021/05/25 v1.0 font definition file for T1/zpl/TLF
+    acmd.sty    2003/08/20  3.11 Arabic command processing 
+  afonts.sty    1995/11/16  3.04 define Naskh font 
+ afonts2.sty    1998/10/19  3.10 define Naskh fonts for LaTeX2e
+   ascan.sty    2003/08/22  3.11 standard ZDMG input encoding 
+  aparse.sty    2003/05/26  3.11 get syllables 
+  awrite.sty    2003/06/05  3.11 build output word 
+xarbsymb.sty    1998/07/15  3.07 symbolic output encoding 
+arabskel.sty    2000/06/04  3.10 character skeleton definitions 
+xarbskel.sty    1999/07/17  3.09 character skeleton definitions 
+  aboxes.sty    2003/05/28  3.11 build output boxes
+arabtoks.sty    1999/07/17  3.09 ArabTeX CS token definitions 
+arabchrs.sty    1998/07/11  3.07 letter token definitions 
+   aligs.sty    2003/05/26  3.11 compute ligatures
+ aoutput.sty    2000/06/04  3.10 build output lines
+  abidir.sty    2003/08/22  3.11 bidirectional linebreaking
+  atrans.sty    2003/06/14  3.11 generate the transliteration 
+  alatex.sty    2003/05/04  3.11 ArabTeX extensions for LaTeX 
+   afoot.sty    2003/05/12  3.11 ArabTeX footnotes
+   abjad.sty    2003/04/26  3.11 abjad numerals 
+  apatch.sty    2006/07/02  3.11s last minute patches 
+  alists.sty    2003/04/26  3.11 inverted list macros
+   asect.sty    2003/04/26  3.11 section macros for Arabic
+   atabg.sty    1997/01/21  3.05 LaTeX tabbing macros for Arabic
+    utf8.sty    2000/06/13  3.10 UTF-8 input encoding 
+ utfcode.sty    2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
+  natbib.sty    2010/09/13 8.31b (PWD, AO)
+  laecmr.fd    2006/01/01 v0.1 LaTeX Arabic default font description (test version: may change)
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+    main.out
+    main.out
+  apatch.sty    2006/07/02  3.11s last minute patches 
+front/logo-uc2.jpg
+front/logo-ntic.png
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+front/bismi_allah8.png
+front/acknowledgments.tex
+front/abstract.tex
+front/abstract_en.tex
+front/abstract_fr.tex
+front/abstract_ar.tex
+   Uxnsh.fd
+front/acronyms.tex
+chapters/introduction.tex
+chapters/state_of_the_art.tex
+chapters/contributions.tex
+chapters/conclusion.tex
+chapters/reference.tex
+ t1npxtt.fd    2000/12/14 v1.0
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4FE21FDAAE84013370AEC5151DCD6726;1750.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 16 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 37823 strings out of 478268
+ 688827 string characters out of 5846347
+ 1184020 words of memory out of 5000000
+ 55260 multiletter control sequences out of 15000+600000
+ 520860 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,11n,120p,4558b,2604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on main.pdf (14 pages, 607800 bytes).
+PDF statistics:
+ 206 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+
