@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  28 FEB 2023 12:14
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  28 FEB 2023 12:12
+>>>>>>> 29a089fa61d57dbe3c00e52cc72207bf401103f9
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
-(/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
+**/Users/younessadi/PFE-Rapport/main.tex
+(/Users/younessadi/PFE-Rapport/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./masterthesis-uc2-en.cls
 Document Class: masterthesis-uc2-en 2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1740,20 +1744,29 @@ chapters/reference.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 2B25DEA83222239EF973D564C1F9E2EB;1750.
+=======
+(rerunfilecheck)             Checksum: 4FE21FDAAE84013370AEC5151DCD6726;1750.
+>>>>>>> 29a089fa61d57dbe3c00e52cc72207bf401103f9
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  37824 strings out of 478268
  688838 string characters out of 5846347
+=======
+ 37823 strings out of 478268
+ 688782 string characters out of 5846347
+>>>>>>> 29a089fa61d57dbe3c00e52cc72207bf401103f9
  1184020 words of memory out of 5000000
  55260 multiletter control sequences out of 15000+600000
  520860 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4558b,2604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,11n,120p,4543b,2600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
 Output written on main.pdf (14 pages, 607832 bytes).
 PDF statistics:
