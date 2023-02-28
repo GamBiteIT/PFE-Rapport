@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  25 FEB 2023 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  28 FEB 2023 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1235,7 +1235,7 @@ LaTeX Info: Redefining \cite on input line 694.
 LaTeX Warning: Unused global option(s):
     [natbib].
 
-(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux))
+(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./chapters/reference.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1358,12 +1358,12 @@ LaTeX Info: Redefining \nameref on input line 16.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 20.
-<front/logo-uc2.jpg, id=19, 391.4625pt x 391.4625pt>
+<front/logo-uc2.jpg, id=79, 391.4625pt x 391.4625pt>
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
 Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<front/logo-ntic.png, id=20, 282.21436pt x 283.90065pt>
+<front/logo-ntic.png, id=80, 282.21436pt x 283.90065pt>
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
 Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
@@ -1401,7 +1401,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<front/bismi_allah8.png, id=32, 979.66pt x 1924.18875pt>
+<front/bismi_allah8.png, id=92, 979.66pt x 1924.18875pt>
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
 Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
@@ -1478,10 +1478,150 @@ LaTeX Warning: Hyper reference `acro:SI' on page vii undefined on input line 10.
 
 
 ]
+\openout2 = `chapters/introduction.aux'.
+
+ (./chapters/introduction.tex
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+ []
+
+[1
+
+
+
+
+
+
+]) [2]
+\openout2 = `chapters/state_of_the_art.aux'.
+
+ (./chapters/state_of_the_art.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
+) [3
+
+
+
+
+]
+\openout2 = `chapters/contributions.aux'.
+
+ (./chapters/contributions.tex) [4
+
+
+
+
+]
+\openout2 = `chapters/conclusion.aux'.
+
+ (./chapters/conclusion.tex) [5
+
+
+
+
+]
+\openout2 = `chapters/template.aux'.
+
+ (./chapters/template.tex
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/t1npxtt.fd
+File: t1npxtt.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+[6
+
+
+
+
+]
+File: front/logo-uc2.jpg Graphic file (type jpg)
+<use front/logo-uc2.jpg>
+Package pdftex.def Info: front/logo-uc2.jpg  used on input line 59.
+(pdftex.def)             Requested size: 71.13188pt x 71.1292pt.
+ (./tables/example.tex) (./algorithms/example.tex
+LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3.
+)
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 74.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.89 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.89 
+     ]
+LaTeX Font Info:    Font shape `T1/npxtt/b/n' in size <12> not available
+(Font)              Font shape `T1/npxtt/bx/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `T1/npxtt/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 94.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 95.
+LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
+(Font)              scaled to size 10.95pt on input line 95.
+ (./listings/A.java
+
+Class memoir Warning: The \bf font command is deprecated. 
+(memoir)              Use \textbf{...} or {\bfseries... } instead on input line 1.
+
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 1.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 9.40002pt on input line 1.
+LaTeX Font Info:    Font shape `T1/npxtt/b/n' in size <10.95> not available
+(Font)              Font shape `T1/npxtt/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/npxtt/bx/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (./listings/A.py) [8]) [9]
+\openout2 = `chapters/reference.aux'.
+
+ (./chapters/reference.tex)
+Overfull \hbox (34.09651pt too wide) in paragraph at lines 4--43
+\T1/zplTLF/m/n/12 République Française Lib-erté Égal-ité Fra-ter-nité , 10 Jan-vier 2021 ([][]$\T1/npxtt/m/n/12 https : / / www . businessfrance .
+ []
+
+[10
+
+
+
+
+
+
+]
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
- (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux))
+ (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/template.aux) (./chapters/reference.aux))
 
  *File List*
 masterthesis-uc2-en.cls    2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1659,31 +1799,46 @@ front/abstract_fr.tex
 front/abstract_ar.tex
    Uxnsh.fd
 front/acronyms.tex
+chapters/introduction.tex
+chapters/state_of_the_art.tex
+chapters/contributions.tex
+chapters/conclusion.tex
+chapters/template.tex
+ t1npxtt.fd    2000/12/14 v1.0
+front/logo-uc2.jpg
+tables/example.tex
+algorithms/example.tex
+lstlang1.sty    2020/03/24 1.8d listings language file
+listings/A.java
+   t1qhv.fd    2009/09/25 v1.2 font definition file for T1/qhv
+lstlang1.sty    2020/03/24 1.8d listings language file
+listings/A.py
+chapters/reference.tex
  ***********
 
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 63E9CD569F0EC914F1A480B008BE3D2E;357.
+(rerunfilecheck)             Checksum: 74B5B57B3C03E3C8A5B5BCB3769098A4;2598.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37597 strings out of 478268
- 682129 string characters out of 5846347
- 1177244 words of memory out of 5000000
- 55100 multiletter control sequences out of 15000+600000
- 517715 words of font info for 64 fonts, out of 8000000 for 9000
+ 38692 strings out of 478268
+ 699755 string characters out of 5846347
+ 1405510 words of memory out of 5000000
+ 56012 multiletter control sequences out of 15000+600000
+ 538374 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4558b,2480s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (8 pages, 585896 bytes).
+ 123i,11n,120p,4558b,4153s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on main.pdf (18 pages, 699037 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
