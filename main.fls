@@ -1873,6 +1873,11 @@ INPUT ./chapters/state_of_the_art.tex
 INPUT chapters/state_of_the_art.tex
 INPUT ./chapters/state_of_the_art.tex
 INPUT chapters/state_of_the_art.tex
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newpx/zplTLF-Regular-ts1.tfm
 INPUT ./chapters/contributions.tex
 INPUT ./chapters/contributions.tex
 INPUT ./chapters/contributions.tex
@@ -1935,6 +1940,7 @@ INPUT chapters/reference.aux
 INPUT chapters/reference.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newpx/zpl_TOsF.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb
