@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  1 MAR 2023 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  1 MAR 2023 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/younessadi/PFE-Rapport/main.tex
-(/Users/younessadi/PFE-Rapport/main.tex
+**/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
+(/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./masterthesis-uc2-en.cls
 Document Class: masterthesis-uc2-en 2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1235,7 +1235,7 @@ LaTeX Info: Redefining \cite on input line 694.
 LaTeX Warning: Unused global option(s):
     [natbib].
 
-(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/reference.aux))
+(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/reference.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1358,12 +1358,12 @@ LaTeX Info: Redefining \nameref on input line 16.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 20.
-<front/logo-uc2.jpg, id=59, 391.4625pt x 391.4625pt>
+<front/logo-uc2.jpg, id=47, 391.4625pt x 391.4625pt>
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
 Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<front/logo-ntic.png, id=60, 282.21436pt x 283.90065pt>
+<front/logo-ntic.png, id=48, 282.21436pt x 283.90065pt>
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
 Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
@@ -1401,7 +1401,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<front/bismi_allah8.png, id=72, 979.66pt x 1924.18875pt>
+<front/bismi_allah8.png, id=60, 979.66pt x 1924.18875pt>
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
 Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
@@ -1451,29 +1451,31 @@ LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
 
 
 
+] (./main.lof) [7
+
 ]
 \openout2 = `front/acronyms.aux'.
 
  (./front/acronyms.tex
 
-LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:IoT' on page viii undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 8.
+LaTeX Warning: Hyper reference `acro:IoT' on page viii undefined on input line 8.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page vii undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page viii undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:UML' on page vii undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:UML' on page viii undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:SI' on page vii undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:SI' on page viii undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:SI' on page vii undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:SI' on page viii undefined on input line 10.
 
-) [7
+) [8
 
 
 
@@ -1520,22 +1522,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 
 
 ]) [4]
-\openout2 = `chapters/contributions.aux'.
-
- (./chapters/contributions.tex) [5
-
-
-
-
-]
-\openout2 = `chapters/conclusion.aux'.
-
- (./chapters/conclusion.tex) [6
-
-
-
-
-]
 \openout2 = `chapters/reference.aux'.
 
  (./chapters/reference.tex
@@ -1560,7 +1546,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-) [7
+
+Overfull \hbox (5.37263pt too wide) in paragraph at lines 12--13
+\T1/zplTLF/m/n/12 yara france.([][]$\T1/npxtt/m/n/12 https : / / www . yara . fr / fertilisation / solutions-[]pour-[]cultures / tomate /
+ []
+
+) [5
 
 
 
@@ -1571,7 +1562,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
- (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/contributions.aux) (./chapters/conclusion.aux) (./chapters/reference.aux))
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+ (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/reference.aux))
 
  *File List*
 masterthesis-uc2-en.cls    2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1752,8 +1746,6 @@ front/acronyms.tex
 chapters/introduction.tex
 chapters/state_of_the_art.tex
 ts1zpltlf.fd    2021/11/24 v1.0 fd file for TS1/zplTLF
-chapters/contributions.tex
-chapters/conclusion.tex
 chapters/reference.tex
  t1npxtt.fd    2000/12/14 v1.0
  ***********
@@ -1762,25 +1754,25 @@ chapters/reference.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 292AB536F0983FC7A1F97F059E5E2668;1755.
+(rerunfilecheck)             Checksum: FAE358310303BB84D52B8DE2143B0996;1269.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37859 strings out of 478268
- 689492 string characters out of 5846347
- 1184016 words of memory out of 5000000
- 55290 multiletter control sequences out of 15000+600000
+ 37794 strings out of 478268
+ 687253 string characters out of 5846347
+ 1181322 words of memory out of 5000000
+ 55244 multiletter control sequences out of 15000+600000
  521181 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4543b,2599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,11n,120p,4558b,2565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newpx/zpl_TOsF.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (15 pages, 613149 bytes).
+Output written on main.pdf (14 pages, 610223 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
