@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  5 MAR 2023 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  5 MAR 2023 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1238,37 +1238,37 @@ LaTeX Warning: Unused global option(s):
 (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/reference.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 17.
-LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 16.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabi/laecmr.fd
 File: laecmr.fd 2006/01/01 v0.1 LaTeX Arabic default font description (test version: may change)
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Info: Redefining \degres on input line 17.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \degres on input line 16.
 
 
 Package french.ldf Warning: Please load the "natbib" package
-(french.ldf)                BEFORE babel/french; reported on input line 17.
+(french.ldf)                BEFORE babel/french; reported on input line 16.
 
-LaTeX Info: Redefining \up on input line 17.
+LaTeX Info: Redefining \up on input line 16.
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count450
@@ -1330,7 +1330,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 \c@mv@tabular=\count456
 \c@mv@boldtabular=\count457
-Package hyperref Info: Link coloring ON on input line 17.
+Package hyperref Info: Link coloring ON on input line 16.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1342,10 +1342,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 17.
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
@@ -1357,40 +1357,40 @@ LaTeX Info: Redefining \nameref on input line 17.
 \a@displaywidth=\dimen363
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 21.
-<front/logo-uc2.jpg, id=51, 391.4625pt x 391.4625pt>
+(Font)              scaled to size 10.95pt on input line 20.
+<front/logo-uc2.jpg, id=59, 391.4625pt x 391.4625pt>
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
-Package pdftex.def Info: front/logo-uc2.jpg  used on input line 21.
+Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<front/logo-ntic.png, id=52, 282.21436pt x 283.90065pt>
+<front/logo-ntic.png, id=60, 282.21436pt x 283.90065pt>
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
-Package pdftex.def Info: front/logo-ntic.png  used on input line 21.
+Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.52011pt.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 21.
+(Font)              scaled to size 17.28pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/sc' will be
-(Font)              scaled to size 17.28pt on input line 21.
+(Font)              scaled to size 17.28pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/sc' will be
-(Font)              scaled to size 17.28pt on input line 21.
+(Font)              scaled to size 17.28pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 21.
+(Font)              scaled to size 24.88pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 21.
+(Font)              scaled to size 24.88pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 21.
+(Font)              scaled to size 12.0pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 21.
+(Font)              scaled to size 14.4pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 21.
+(Font)              scaled to size 20.74pt on input line 20.
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 21.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+(Font)              scaled to size 20.74pt on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -1401,16 +1401,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<front/bismi_allah8.png, id=64, 979.66pt x 1924.18875pt>
+<front/bismi_allah8.png, id=72, 979.66pt x 1924.18875pt>
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
-Package pdftex.def Info: front/bismi_allah8.png  used on input line 21.
+Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
 (pdftex.def)             Requested size: 91.04872pt x 178.80676pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.21 	\maketitlepage
+l.20 	\maketitlepage
                      [1
 
  <./front/bismi_allah8.png>]
@@ -1496,22 +1496,18 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 \openout2 = `chapters/state_of_the_art.aux'.
 
  (./chapters/state_of_the_art.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--12
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 24.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
+LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 21.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2021/11/24 v1.0 fd file for TS1/zplTLF
 )
 LaTeX Font Info:    Font shape `TS1/zplTLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 21.
  [3
 
 
 
 
-]) [4]
+]) [4] [5]
 \openout2 = `chapters/reference.aux'.
 
  (./chapters/reference.tex
@@ -1536,12 +1532,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
  []
 
-)
-Overfull \hbox (101.60832pt too wide) in paragraph at lines 14--46
+
+Overfull \hbox (101.60832pt too wide) in paragraph at lines 14--17
 \T1/zplTLF/m/n/12 edge grows yara france,paraghraph 2 . ([][]$\T1/npxtt/m/n/12 https : / / www . yara . fr / fertilisation / solutions-[]pour-[]cutomate /
  []
 
-[5
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+
+ []
+
+) [6
 
 
 
@@ -1744,25 +1745,25 @@ chapters/reference.tex
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C6C8B6E915E663B910542611D1664289;1649.
+(rerunfilecheck)             Checksum: EEE0CB6A8F18738EF2D988C347D4E358;1831.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 17 (\begingroup)
+### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37795 strings out of 478268
- 687312 string characters out of 5846347
+ 37800 strings out of 478268
+ 687386 string characters out of 5846347
  1181373 words of memory out of 5000000
- 55246 multiletter control sequences out of 15000+600000
+ 55248 multiletter control sequences out of 15000+600000
  521181 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,11n,120p,4558b,2566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newpx/zpl_TOsF.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (14 pages, 610986 bytes).
+Output written on main.pdf (15 pages, 613949 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
