@@ -1875,6 +1875,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newpx/zplTLF-Regular-ts1.tfm
+INPUT ./figures/periodetomate.png
+INPUT ./figures/periodetomate.png
+INPUT figures/periodetomate.png
+INPUT ./figures/periodetomate.png
+INPUT ./figures/periodetomate.png
 INPUT ./chapters/reference.tex
 OUTPUT chapters/reference.aux
 INPUT ./chapters/reference.tex
