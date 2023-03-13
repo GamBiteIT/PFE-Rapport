@@ -14,9 +14,9 @@
 % Constants
 %----------------------------------------------------
 \def\countryEn{People's Democratic Republic of Algeria} 
-\def\countryFr{République algérienne démocratique et populaire} 
+\def\countryFr{R\'epublique alg\'erienne d\'emocratique et populaire} 
 \def\ministryEn{Ministry of Higher Education and Scientific Research} 
-\def\ministryFr{Ministère de l'enseignement supérieur et de la recherche scientifique} 
+\def\ministryFr{Minist\`ere de l'enseignement sup\'erieur et de la recherche scientifique} 
 
 \def\universityShortEn{University of Constantine 2} 
 \def\universityShortFr{Universit\'e de Constantine 2} 
@@ -34,12 +34,12 @@
 %\def\departmentLongFr{Département d'informatique fondamentale et ses applications (IFA)}
 
 \def\memoirEn{Master's Thesis}
-\def\memoirFr{Mémoire de Master}
+\def\memoirFr{M\'emoire de Master}
 \def\obtainEn{to obtain the diploma of Master degree in Computer Science}
-\def\obtainFr{pour obtenir le diplôme de Master en Informatique}
+\def\obtainFr{pour obtenir le dipl\^ome de Master en Informatique}
 
 \def\studentsEn{Realized by:}
-\def\studentsFr{Réalisé par~:}
+\def\studentsFr{R\'ealis\'e par~:}
 
 \def\supervisorsEn{Under supervision of:}
 \def\supervisorsFr{Sous la direction de~:}
