@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  5 MAR 2023 13:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.19)  15 MAR 2023 12:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
-(/Users/abderahmanemahdigharzouli/PFE-Rapport/main.tex
+**/Users/younessadi/PFE-Rapport/main.tex
+(/Users/younessadi/PFE-Rapport/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./masterthesis-uc2-en.cls
 Document Class: masterthesis-uc2-en 2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1235,7 +1235,7 @@ LaTeX Info: Redefining \cite on input line 694.
 LaTeX Warning: Unused global option(s):
     [natbib].
 
-(./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/reference.aux))
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1346,24 +1346,23 @@ LaTeX Info: Redefining \nameref on input line 16.
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
-(./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
 \c@lstlisting=\count459
- (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/apatch.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/apatch.sty
 \a@lines=\count460
 \a@Lwidth=\dimen362
 \a@displaywidth=\dimen363
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 20.
-<front/logo-uc2.jpg, id=59, 391.4625pt x 391.4625pt>
+<front/logo-uc2.jpg, id=7, 391.4625pt x 391.4625pt>
 File: front/logo-uc2.jpg Graphic file (type jpg)
 <use front/logo-uc2.jpg>
 Package pdftex.def Info: front/logo-uc2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 51.21504pt x 51.21446pt.
-<front/logo-ntic.png, id=60, 282.21436pt x 283.90065pt>
+<front/logo-ntic.png, id=8, 282.21436pt x 283.90065pt>
 File: front/logo-ntic.png Graphic file (type png)
 <use front/logo-ntic.png>
 Package pdftex.def Info: front/logo-ntic.png  used on input line 20.
@@ -1401,7 +1400,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 pdfTeX warning: pdflatex (file ./front/logo-ntic.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<front/bismi_allah8.png, id=72, 979.66pt x 1924.18875pt>
+<front/bismi_allah8.png, id=20, 979.66pt x 1924.18875pt>
 File: front/bismi_allah8.png Graphic file (type png)
 <use front/bismi_allah8.png>
 Package pdftex.def Info: front/bismi_allah8.png  used on input line 20.
@@ -1446,12 +1445,12 @@ LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
 (Font)              scaled to size 17.28003pt on input line 1.
 )) [5
 
-] (./main.toc) [6
+] [6
 
 
 
 
-] (./main.lof) [7
+] [7
 
 ]
 \openout2 = `front/acronyms.aux'.
@@ -1496,17 +1495,17 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 \openout2 = `chapters/state_of_the_art.aux'.
 
  (./chapters/state_of_the_art.tex
-LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 21.
+<figures/periodetomate.png, id=77, 844.15375pt x 509.905pt>
+File: figures/periodetomate.png Graphic file (type png)
+<use figures/periodetomate.png>
+Package pdftex.def Info: figures/periodetomate.png  used on input line 16.
+(pdftex.def)             Requested size: 426.79134pt x 257.80731pt.
+LaTeX Font Info:    Trying to load font information for TS1+zplTLF on input line 29.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2021/11/24 v1.0 fd file for TS1/zplTLF
 )
 LaTeX Font Info:    Font shape `TS1/zplTLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 21.
-<figures/periodetomate.png, id=139, 844.15375pt x 509.905pt>
-File: figures/periodetomate.png Graphic file (type png)
-<use figures/periodetomate.png>
-Package pdftex.def Info: figures/periodetomate.png  used on input line 31.
-(pdftex.def)             Requested size: 426.79134pt x 257.80731pt.
+(Font)              scaled to size 12.0pt on input line 29.
  [3
 
 
@@ -1516,24 +1515,142 @@ Package pdftex.def Info: figures/periodetomate.png  used on input line 31.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.45 \subsection
+l.47 \subsection
                 {Sol} <./figures/periodetomate.png>]) [5]
+\openout2 = `chapters/IOT.aux'.
+
+ (./chapters/IOT.tex
+
+./chapters/IOT.tex:4: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 Connectivité \newline 
+                             La connectivité est une exigence importante de...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:6: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...rfois pour interroger son état.\newline 
+                                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:7: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 Évolutivité \newline 
+                             Le nombre d’éléments connectés à la zone ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:7: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...aitées de manière appropriée.\newline 
+                                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:9: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...rage (matin, après-midi, nuit).\newline 
+                                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:10: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Architecture \newline 
+                              l’architecture IoT ne peut pas être de natu...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:10: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...usieurs domaines se rejoignent.\newline 
+                                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapters/IOT.tex:11: LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 Sécurité \newline 
+                            Il existe un risque que les données personnelle...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) [6
+
+
+
+
+] [7]
 \openout2 = `chapters/reference.aux'.
 
  (./chapters/reference.tex
-LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 8.
+LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 6.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newpx/t1npxtt.fd
 File: t1npxtt.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
-(Font)              scaled to size 12.0pt on input line 8.
+(Font)              scaled to size 12.0pt on input line 6.
 
-Overfull \hbox (34.09651pt too wide) in paragraph at lines 6--9
+Overfull \hbox (34.09651pt too wide) in paragraph at lines 4--7
 \T1/zplTLF/m/n/12 R�publique Fran�aise Lib-ert� �gal-it� Fra-ter-nit� , 10 Jan-vier 2021 ([][]$\T1/npxtt/m/n/12 https : / / www . businessfrance .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--9
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
@@ -1543,16 +1660,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
  []
 
 
-Overfull \hbox (101.60832pt too wide) in paragraph at lines 14--17
-\T1/zplTLF/m/n/12 edge grows yara france,paraghraph 2 . ([][]$\T1/npxtt/m/n/12 https : / / www . yara . fr / fertilisation / solutions-[]pour-[]cutomate /
+Overfull \hbox (97.92044pt too wide) in paragraph at lines 14--16
+\T1/zplTLF/m/n/12 ([][]$\T1/npxtt/m/n/12 https : / / www . yara . frfertilisation / solutions-[]pour-[]cutomate / principes-[]agronomiques-[]tomates/$[][]\T1/zplTLF/m/n/12 ). 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-) [6
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Overfull \hbox (0.55391pt too wide) in paragraph at lines 19--20
+[]\T1/zplTLF/m/n/12 [6] Alexan-der S. Gillis, (https://www.techtarget.com/contributor/Alexander-S-Gillis)
+ []
+
+
+Overfull \hbox (9.16862pt too wide) in paragraph at lines 19--20
+\T1/zplTLF/m/n/12 Agenda, TechTar-get,11 Feb 2020. ([][]$\T1/npxtt/m/n/12 https : / / www . techtarget . com / iotagenda / definition /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+)
+Overfull \hbox (2.53363pt too wide) in paragraph at lines 21--48
+[]\T1/zplTLF/m/n/12 [7] Ar-ti-cle writ-ten by shiv-al-ib-hadaniya and trans-lated by Ac-ervo Lima,^^QCaract�ristiques
+ []
+
+[8
 
 
 
@@ -1566,7 +1708,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
- (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/reference.aux))
+ (./main.aux (./front/acknowledgments.aux) (./front/abstract.aux) (./front/acronyms.aux) (./chapters/introduction.aux) (./chapters/state_of_the_art.aux) (./chapters/IOT.aux) (./chapters/reference.aux))
 
  *File List*
 masterthesis-uc2-en.cls    2022/03/09, V1.11: Dr. Ahmed-Chawki CHAOUCHE
@@ -1729,8 +1871,6 @@ epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
  nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
 refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
 gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
-    main.out
-    main.out
   apatch.sty    2006/07/02  3.11s last minute patches 
 front/logo-uc2.jpg
 front/logo-ntic.png
@@ -1746,8 +1886,9 @@ front/abstract_ar.tex
 front/acronyms.tex
 chapters/introduction.tex
 chapters/state_of_the_art.tex
-ts1zpltlf.fd    2021/11/24 v1.0 fd file for TS1/zplTLF
 figures/periodetomate.png
+ts1zpltlf.fd    2021/11/24 v1.0 fd file for TS1/zplTLF
+chapters/IOT.tex
 chapters/reference.tex
  t1npxtt.fd    2000/12/14 v1.0
  ***********
@@ -1755,26 +1896,35 @@ chapters/reference.tex
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EEE0CB6A8F18738EF2D988C347D4E358;1831.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D306CE6D05C1A55103F7A47A09F7F22B;2303.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 16 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37817 strings out of 478268
- 687750 string characters out of 5846347
- 1181500 words of memory out of 5000000
- 55262 multiletter control sequences out of 15000+600000
+ 37809 strings out of 478268
+ 687911 string characters out of 5846347
+ 1173266 words of memory out of 5000000
+ 55264 multiletter control sequences out of 15000+600000
  521181 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,11n,120p,4558b,2566s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,11n,120p,4543b,2585s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newpx/zpl_TOsF.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/arabtex/xnsh14bf.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (15 pages, 757609 bytes).
+Output written on main.pdf (17 pages, 760586 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
